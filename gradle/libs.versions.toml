@@ -1,6 +1,6 @@
 [versions]
 # kotlin
-kotlinVersion = "1.5.20"
+kotlinVersion = "1.5.31"
 
 # kotlinx
 kotlinxSerializationVersion = "1.2.2"
@@ -8,7 +8,7 @@ kotlinxDateTimeVersion = "0.2.1"
 coroutinesVersion = "1.5.1-native-mt"
 
 # ktor
-ktorClientVersion = "1.6.1"
+ktorClientVersion = "1.6.4"
 
 # moko
 mokoGraphicsVersion = "0.8.0"

@@ -10,7 +10,7 @@ dependencyResolutionManagement {
         mavenCentral()
         google()
 
-        jcenter {
+        mavenCentral {
             content {
                 includeGroup("org.jetbrains.kotlinx")
                 includeGroup("com.github.aakira")
